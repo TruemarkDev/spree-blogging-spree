@@ -1,3 +1,5 @@
+Updates and mofification so blog can work on Spree 3.0 have been applied to the 3-0-stable branch, not the master branch.  Master branch does not include said modifications.
+
 SpreeBloggingSpree
 ==================
 
